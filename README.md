@@ -42,6 +42,8 @@
 | Single Tap           | SEO & Frontend Developer Intern| Apr 2024 – Aug 2024   | SEO optimization & front-end development    |
 | YBI Foundation       | Data Science & ML Intern       | Jul 2024 – Sep 2024   | Built ML models, performed data analysis    |
 | Edunet Foundation    | AI & Data Analyst Intern       | Jun 2025 - July 2025  | AI-driven analytics & insights              |
+| Ambuja Foundation    | Associate Data Analyst         | July 2025 – Nov 2024  | Data Tools , EDA, performed data analysis   |
+| 1M1B Foundation      | AI  Intern                     | May 2026 - June 2026  | AI-driven analytics , RAG, LLM              |
 
 ---
 
